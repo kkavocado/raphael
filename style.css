@@ -159,6 +159,20 @@ padding:0px;}
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.raphael-business-section {
+  position: relative;
+  background: url("image/business.jpg") center top no-repeat;
+  height: 700px;
+  min-height:100%;
+  min-width:100%;
+  background-size:cover;
+  background-attachment: fixed;
+  background-position: right-top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
   
 
 
