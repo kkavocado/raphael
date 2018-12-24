@@ -135,26 +135,15 @@ padding:0px;}
     padding-top: 8px;
   }
 
-.raphael-solution-section {
-  position: relative;
-  background: url("image/bracelet2.gif") center top no-repeat;
-  background-size:cover;
-  height: 700px;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 
 .raphael-solution-section {
   position: relative;
-  background: url("image/bracelet2.gif") center top no-repeat;
+  background: url("image/bracelet1.gif") center top no-repeat;
   background-size: cover;
-  height: 900px;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  height: 700px;
+  padding-top:100px;
+ 
 }
 
 
