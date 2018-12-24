@@ -159,22 +159,28 @@ padding:0px;}
   background-repeat: no-repeat;
   background-size: cover;
 }
+ .raphael-problem-text{
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin:5px;
+padding:6px;
+border:2px solid white;
+text-align: justify;
+background-color:rgba(0, 0, 0, 0);
+ 
+ }
+.problemInfo{
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin:5px;
+padding:6px;
+border:2px solid white;
+text-align: justify;
+background-color:rgba(0, 0, 0, 0);
 
-.raphael-business-section {
-  position: relative;
-  background: url("image/business.jpg") center top no-repeat;
-  height: 700px;
-  min-height:100%;
-  min-width:100%;
-  background-size:cover;
-  background-attachment: fixed;
-  background-position: right-top;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
-
-  
-
 
 
 
