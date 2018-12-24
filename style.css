@@ -158,29 +158,22 @@ padding:0px;}
   background-position: right-top;
   background-repeat: no-repeat;
   background-size: cover;
+  
 }
- .raphael-problem-text{
+.chrismartin
+{
 display: flex;
 flex-direction: row;
-justify-content: center;
-margin:5px;
-padding:6px;
+justify-content: space-between;
+margin:50px;
+padding:60px;
 border:2px solid white;
 text-align: justify;
-background-color:rgba(0, 0, 0, 0);
- 
- }
-.problemInfo{
-display: flex;
-flex-direction: row;
-justify-content: center;
-margin:5px;
-padding:6px;
-border:2px solid white;
-text-align: justify;
-background-color:rgba(0, 0, 0, 0);
+background-color:#ffe6e6;
 
-}
+
+} 
+
 
 
 
