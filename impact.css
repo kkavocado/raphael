@@ -39,7 +39,7 @@ border-radius:10px;}
 
 body
 {
-background-image: url("images/background.jpg") ;
+background-color:#FF7488  ;
 background-attachment: fixed;
 background-repeat:no-repeat;
 background-size:cover;
@@ -101,7 +101,7 @@ border:5px solid black;
 text-align: justify;
 background-color:#ffe6e6;
 position: relative;
-max-height:500px;
+max-height:600px;
 width:auto;
 justify-content: space-between;
 
@@ -149,7 +149,7 @@ border:5px solid black;
 text-align: justify;
 background-color:#ffe6e6;
 position: relative;
-max-height:500px;
+max-height:600px;
 width:auto;
 justify-content: space-between;
 

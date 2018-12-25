@@ -39,14 +39,14 @@ border-radius:10px;}
 
 body
 {
-background-image: url("images/background.jpg") ;
+background-color:#FF7488  ;
 background-attachment: fixed;
 background-repeat:no-repeat;
 background-size:cover;
-color:white;
+color:#FFDF00;
 }
 
-.impact1
+.business_section
 {
 display: flex;
 flex-direction: row;
@@ -56,12 +56,12 @@ border:5px solid black;
 text-align: justify;
 background-color:#ffe6e6;
 position: relative;
-height:700px;
+height:800px;
 width:auto;
 
 }
 
-.impact1_info p
+.business_info p
 {
   margin:0px;
  text-align: justify;
