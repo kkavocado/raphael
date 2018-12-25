@@ -1,0 +1,278 @@
+header
+{
+margin:0px;
+padding:0px;
+width:100%;
+background:#FF7488;
+text-align: center;
+color:white;
+font-family: 'Staatliches';
+}
+
+
+.options
+{   
+background-color:#FFB6AB;
+height:30px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+border-top:solid 2px;
+border-bottom: solid 2px;
+padding:5px;
+}
+    
+.menuitem
+{
+flex-grow: 1;
+text-align: center;
+padding:15px;
+color:white;
+transition-duration: 1.0s;
+}
+
+.menuitem:hover
+{
+background-color: rgba(156, 156, 156, 0.438);
+border-radius:10px;}
+
+body
+{
+background-c: url("images/background.jpg") ;
+background-attachment: fixed;
+background-repeat:no-repeat;
+background-size:cover;
+color:white;
+}
+
+.solution 
+{
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+margin:50px;
+padding:60px;
+border:2px solid white;
+text-align: justify;
+background-color:#ffe6e6;
+
+
+} 
+.sol
+{ 
+  position: relative;
+  height: 800px;
+  min-height:100%;
+  min-width:100%;
+  background-size:cover;
+  background-attachment: fixed;
+  background-position: right-top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.h2{
+	    text-align:center;
+		font-family: 'Indie Flower', cursive;
+}
+
+.h2{
+	    text-align:center;
+		font-family: 'Indie Flower', cursive;
+}
+
+
+
+.technology1
+{
+display: flex;
+flex-direction: row;
+margin:50px;
+padding:60px;
+border:5px solid black;
+text-align: justify;
+background-color:#ffe6e6;
+position: relative;
+height:450px;
+width:auto;
+
+}
+
+.technology1_info p
+{
+  margin:0px;
+ text-align: justify;
+ position: left;
+  padding-bottom:60px;
+}
+
+.raphael-technology-content-text-title {
+  font-family:'Staatliches';
+  color:black;
+  font-weight:300;
+  font-size:40px;
+  margin:0px;
+  padding-bottom:60px;
+  line-height:0.8;
+  text-align:justify;
+  position: left;
+  
+}
+
+.raphael-technology-content-text{
+ font-family: 'Open Sans';
+ color:black;
+ font-size:20px; 
+  margin:0px;
+  padding-bottom:100px;
+  line-height:1.5;
+}	
+
+.technology2
+{
+display: flex;
+flex-direction: row;
+margin:50px;
+padding:60px;
+border:5px solid black;
+text-align: justify;
+background-color:#ffe6e6;
+position: relative;
+max-height:500px;
+width:auto;
+justify-content: space-between;
+
+}
+
+.technology2_info p
+{
+  margin:0px;
+ text-align: justify;
+ position: left;
+  padding-bottom:60px;
+}
+.technology3
+{
+display: flex;
+flex-direction: row;
+margin:50px;
+padding:60px;
+border:5px solid black;
+text-align: justify;
+background-color:#ffe6e6;
+position: relative;
+max-height:300px;
+width:auto;
+justify-content: space-between;
+
+}
+
+.technology3_info p
+{
+  margin:0px;
+ text-align: justify;
+ position: left;
+  padding-bottom:60px;
+}
+
+
+.technology4
+{
+display: flex;
+flex-direction: row;
+margin:50px;
+padding:60px;
+border:5px solid black;
+text-align: justify;
+background-color:#ffe6e6;
+position: relative;
+max-height:300px;
+width:auto;
+justify-content: space-between;
+
+}
+
+.technology4_info p
+{
+  margin:0px;
+ text-align: justify;
+ position: left;
+  padding-bottom:60px;
+}
+
+
+
+.technology5
+{
+display: flex;
+flex-direction: row;
+margin:50px;
+padding:60px;
+border:5px solid black;
+text-align: justify;
+background-color:#ffe6e6;
+position: relative;
+max-height:450px;
+width:auto;
+justify-content: space-between;
+
+}
+
+.technology5_info p
+{
+  margin:0px;
+ text-align: justify;
+ position: left;
+  padding-bottom:60px;
+}
+
+.technology6
+{
+display: flex;
+flex-direction: row;
+margin:50px;
+padding:60px;
+border:5px solid black;
+text-align: justify;
+background-color:#ffe6e6;
+position: relative;
+max-height:400px;
+width:auto;
+justify-content: space-between;
+
+}
+
+.technology6_info p
+{
+  margin:0px;
+ text-align: justify;
+ position: left;
+  padding-bottom:60px;
+}
+
+.technology7
+{
+display: flex;
+flex-direction: row;
+margin:50px;
+padding:60px;
+border:5px solid black;
+text-align: justify;
+background-color:#ffe6e6;
+position: relative;
+max-height:400px;
+width:auto;
+justify-content: space-between;
+
+}
+
+.technology7_info p
+{
+  margin:0px;
+ text-align: justify;
+ position: left;
+  padding-bottom:60px;
+}
+
