@@ -41,7 +41,7 @@
       z-index: 900;
     }
     </style>
- 
+ </head>
  <head>
  
   <title>Raphael Bracelet</title>
@@ -50,7 +50,7 @@
 
 <header>
 <div class=raphaelheader  >
-<a href="Raphael.html"><h1 style="font-family:'Pacifico';color:#FFDF00"><strong>Raphael</strong></h1></a>
+<a href="Raphael.html"><h1 style="font-family:'Pacifico';color:#FFDF00">Raphael</h1></a>
 
 </div>
 
@@ -140,14 +140,15 @@ to give birth, I have never been to the hospital yet, although I have (had) the 
 </div>
 </div>
 
+<!-- Raised button with ripple -->
+<a href = "Raphael.html" button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
+  Previous
+</button></a>
 
-
-
-
-</head>
-
-<a href="Raphael.html" class="previous">&laquo; Previous</a>
-<a href="#" class="next">Next &raquo;</a>
+<!-- Accent-colored raised button with ripple -->
+<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+  Next
+</button>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
@@ -167,9 +168,14 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
+</div>
+
 
 
  </div>
 </div>
+
 </body>
+
+
 </html>
